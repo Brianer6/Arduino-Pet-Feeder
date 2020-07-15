@@ -1,2 +1,1 @@
-# Arduino-Pet-Feeder-
-# Arduino-Pet-Feeder It's an Arduino Pet Food dispenser. When you press a button on the dispenser the Servo rotates 180° in order to let out the food. I'm hoping to remove the button so it can be automatic so at a certain time the Servo will move 180° to let the feed out. Let me know what else i could add. It's an Arduino Pet Food dispenser. When you press a button on the dispenser the Servo rotates 180° in order to let out the food. I'm hoping to remove the button so it can be automatic so at a certain time the Servo will move 180° to let the feed out. Let me know what else i could add. *NOTE* It was coded in the Arduino language which is a mix of C/C++
+# Arduino-Pet-Feeder
